@@ -1,3 +1,4 @@
+[aaa](Neural Networks and Deep Learning/images/2layerNN_kiank.png)
 # Deep Learning Specialization on Coursera
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)

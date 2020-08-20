@@ -5,13 +5,13 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Introduction
 
-This repo contains all my work for this specialization.[Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
+This repo contains all my work for this specialization. [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning).
 
 ## Programming Assignments
 
 - Course 1: Neural Networks and Deep Learning
 
-  - [sadsad](Neural_Networks_and_Deep_Learning/Python_Basics_With_Numpy_v3a.ipynb)
+  - [Python_Basics_With_Numpy](Neural_Networks_and_Deep_Learning/Python_Basics_With_Numpy_v3a.ipynb)
   - [Logistic_Regression_with_a_Neural_Network_mindset](Neural_Networks_and_Deep_Learning/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
   - [Planar_data_classification_with_onehidden_layer](Neural_Networks_and_Deep_Learning/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
   - [Deep_Neural_Network_Application](Neural_Networks_and_Deep_Learning/Deep+Neural+Network+-+Application+v8.ipynb)

@@ -10,7 +10,7 @@ This repo contains all my work for this specialization.[Deep Learning Specializa
 
 - Course 1: Neural Networks and Deep Learning
 
-  - [PythonBasicsWithNumpy](Neural Networks and Deep Learning/Python_Basics_With_Numpy_v3a.ipynb)
+  - [sadsad](Neural Networks and Deep Learning/Python_Basics_With_Numpy_v3a.ipynb)
   - [Logistic_Regression_with_a_Neural_Network_mindset](Neural Networks and Deep Learning/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
   - [Planar_data_classification_with_onehidden_layer](Neural Networks and Deep Learning/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
   - [Deep_Neural_Network_Application](Neural Networks and Deep Learning/Deep+Neural+Network+-+Application+v8.ipynb)
